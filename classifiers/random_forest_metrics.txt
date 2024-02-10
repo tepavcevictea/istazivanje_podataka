@@ -1,0 +1,11 @@
+Random Forest Classifier Metrics:
+              precision    recall  f1-score   support
+
+          Q1       0.79      0.71      0.74       350
+          Q2       0.62      0.83      0.71       496
+          Q3       0.66      0.38      0.48       278
+          Q4       0.61      0.45      0.52        55
+
+    accuracy                           0.67      1179
+   macro avg       0.67      0.59      0.61      1179
+weighted avg       0.68      0.67      0.66      1179
